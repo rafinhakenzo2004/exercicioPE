@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">exercicioPE</string>
+    <string name="num">Digite um número</string>
+    <string name="calc">Calcular</string>
+    <string name="res">Resultado</string>
+    <string name="erro">Digite um numero valido</string>
+</resources>
